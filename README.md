@@ -238,7 +238,7 @@ App to mode Offline and Online
   </tr>
  </table>
  
-  <a href="https://github.com/memof90/Carousel-Con-ReactNative"><img src="https://github.com/memof90/Uber-clone-ReactNative"></a>
+  <a href="https://github.com/memof90/Uber-clone-ReactNative"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
  
   ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Todo App React Native
  
