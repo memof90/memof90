@@ -201,6 +201,44 @@ App to mode Offline and Online
  </table>
  
   <a href="https://github.com/memof90/Carousel-Con-ReactNative"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+  
+  
+ ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Uber Clone
+ 
+ > Uber Clone 
+
+## KeyPoints 
+
+- 👉  Use Tailwind CSS with RN for awesome styling!
+- 👉  Use the Google Distance Matrix API to calculate Travel time and Distance (+ Cost!)
+- 👉  Use the Directions Google API for real navigation!
+- 👉  Use Google places API for real navigations!
+- 👉  Use apple & google maps for iOS & Android 
+- 👉  Use React Native Navigation to navigate between screens!
+- 👉  Use React Native Elements to elevate your app design!
+- 👉 Redux to managed State to app
+
+    <table>
+  <tr>
+    <td>Demo</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/Uber-Clone%20with%20React%20Native/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20-%202021-10-23%20at%2018.58.40.gif?raw=true"></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td>Home Page</td>
+     <td>Home page with Google places</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/Uber-Clone%20with%20React%20Native/Captura%20de%20Pantalla%202021-10-23%20a%20la(s)%206.55.08%20p.%C2%A0m..png?raw=true"></td>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/Uber-Clone%20with%20React%20Native/Captura%20de%20Pantalla%202021-10-23%20a%20la(s)%206.53.52%20p.%C2%A0m..png?raw=true"></td>
+  </tr>
+ </table>
+ 
+  <a href="https://github.com/memof90/Carousel-Con-ReactNative"><img src="https://github.com/memof90/Uber-clone-ReactNative"></a>
  
   ## <img class="logo" src="https://icon-library.com/images/programmer-icon/programmer-icon-14.jpg" width="32"> Todo App React Native
  
