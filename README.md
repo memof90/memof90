@@ -436,10 +436,194 @@ With the following practices, we've achieved create a product with highly qualit
 https://lascteosbelen.000webhostapp.com/ingreso
  
   <a href="https://github.com/memof90/plataformaInventario"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
- 
- 
+  
+  >  React Stawars 
 
+## How the app works
+
+![alt text](https://github.com/memof90/screenProjects/blob/master/Starwars/app-2.gif?raw=true)
+
+ ## Screens Apps
  
+ <table>
+  <tr>
+    <td>Contct List</td>
+     <td>search Items</td>
+     <td>Empty List</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/Starwars/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%202.17.12%20p.%C2%A0m..png?raw=true"></td>
+    <td><img src="https://github.com/memof90/screenProjects/blob/master/Starwars/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%202.17.20%20p.%C2%A0m..png?raw=true"></td>
+     <td><img src="https://github.com/memof90/screenProjects/blob/master/Starwars/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%202.17.32%20p.%C2%A0m..png?raw=true"></td>
+  </tr>
+ </table>
+
+
+## Pages
+
+The app basically:
+
+- [x] "/": Home page (Characters);
+- [x] "/characters/:id": Specific character's page;
+- [x] "/films": Films' page;
+- [x] "/films/:id": Specific film's page;
+- [x] "/starships": Starships' page;
+- [x] "/starship/:id": Specific starship's page;
+- [x] "/vehicles": Vehicles' page;
+- [x] "/vehicles/:id": Specific vehicle page;
+
+
+## What technologies does this project use?
+
+The whole app was made with ReactJs. To style, it's uses styled-components.
+
+Others importants libs was used also:
+
+- [x] React Redux (to save all favourites states)
+- [x] Axios (to make requests to API);
+- [x] Lottie (to make the animations with lottiefiles in JSON);
+- [x] Lodash (to make debounce);
+- [x] React Router DOM v6;
+- [x] Polished;
+- [x] React Icons.
+
+## About the Api
+All Data Provided By [SWAPI](https://swapi.dev/)
+
+## Demo
+[Star Wars](https://chimerical-parfait-270191.netlify.app)
+
+<a href="https://github.com/memof90/Starwars-TypeScript"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+ 
+  >  React Netflix Clone
+
+# Netflix clone using ReactJS
+
+This project is a simplified front-end clone of Netflix. It was created with ReactJS, JavaScript, HTML and CSS. It uses TheMovieDB API to display movies and show details like genre, description and score. The data gets updated weekly.
+
+### Tools used:
+
+- Webpack
+- React DOM
+- React Icons
+- React Hooks
+
+### Running the project locally:
+
+- Install dependencies: run `npm install ` in root project
+- Get API key from [here](https://www.themoviedb.org/settings/api)
+- Create .env file in root project and add: API_KEY=YOUR_API_KEY_HERE
+- Run project: `npm start `
+
+### The result of the project can be seen below:
+
+![](https://github.com/memof90/screenProjects/blob/master/Netflix-clone/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%204.22.21%20p.%C2%A0m..png?raw=true)
+![](https://github.com/memof90/screenProjects/blob/master/Netflix-clone/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%204.22.28%20p.%C2%A0m..png?raw=true)
+![](https://github.com/memof90/screenProjects/blob/master/Netflix-clone/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%204.22.35%20p.%C2%A0m..png?raw=true)
+![](https://github.com/memof90/screenProjects/blob/master/Netflix-clone/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%204.22.39%20p.%C2%A0m..png?raw=true)
+
+## Demo
+[Netflix](https://tourmaline-meringue-9923e0.netlify.app)
+
+<a href="https://github.com/memof90/React-Clone-Netflix"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+
+>  Next Template
+
+#  Driver Template with next js 
+
+Free NextJs Template for taxi driver made with **NextJs**   and **Tailwindcss**.
+![taxi driver app](https://github.com/memof90/screenProjects/blob/master/Template/Grabación%20de%20pantalla%202022-04-09%20a%20la(s)%205.26.30%20p.%C2%A0m.-2.gif?raw=true)
+
+
+
+## Page Demo
+- Home Page.
+- Services
+- About Us
+- Contact
+
+##  Getting started
+
+-   Recommended  `node js 14+`  and  `npm 6+`
+-   Install dependencies:  `npm install`  or  `yarn install`
+-   Start the server:  `npm run start`  or  `yarn start`
+
+### The result of the project can be seen below:
+
+![](https://github.com/memof90/screenProjects/blob/master/Template/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%205.14.03%20p.%C2%A0m..png?raw=true)
+![](https://github.com/memof90/screenProjects/blob/master/Template/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%205.14.12%20p.%C2%A0m..png?raw=true)
+![](https://github.com/memof90/screenProjects/blob/master/Template/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%205.14.27%20p.%C2%A0m..png?raw=true)
+![](https://github.com/memof90/screenProjects/blob/master/Template/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%205.14.44%20p.%C2%A0m..png?raw=true)
+![](https://github.com/memof90/screenProjects/blob/master/Template/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%205.14.48%20p.%C2%A0m..png?raw=true)
+![](https://github.com/memof90/screenProjects/blob/master/Template/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%205.14.54%20p.%C2%A0m..png?raw=true)
+
+## Demo
+[Template](https://quiet-caramel-b99838.netlify.app)
+
+ <a href="https://github.com/memof90/Template-Nextjs"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
+ 
+  >  React Recipes 
+
+![Recipe App Image](./Recipe-app.png 'Recipe App image')
+
+_if you just want to run it locally without specifications, you can go to the [How to run it locally section](#how-to-run-it-locally)_
+
+# What is this App about?
+
+It's a Recipe App that lets you search for recipes and also show you some in the homepage if you're interested in being surprised.
+
+# What technologies were used?
+
+- Reactjs
+- NPM packages as:
+  - Styled-components for using the CSS inside the JSX.
+  - Splidejs for the sliding feature of the homepage.
+  - React-router-dom for the routes of the App.
+  - Framer-motion for animations when changing pages.
+  - React icons.
+
+# How to run it locally
+
+### First things
+
+You've got to have Yarn installed, if you don't have it, run this command in your terminal:
+
+```node
+npm install --global yarn
+```
+
+If it doesn't work, it's possible that you don't have Node installed, so go ahead and download and install it here: [Node.](https://nodejs.org 'Node Website')
+
+If don't know what Yarn is, you can check their documentation by [clicking here.](https://classic.yarnpkg.com/en/docs/getting-started 'Yarn Documentation')
+
+### Installing dependencies
+
+Now that you already have Node and Yarn installed, you can run this command inside the cloned folder:
+
+```
+  yarn install
+```
+
+After installing all dependencies, you still have to do some things, firstly, create your account on the [Spoonacular's API](https://spoonacular.com/food-api 'Recipe API'), the API we're using for this Web App, it's free for 150 Requests per day.
+
+Now you can go to MY CONSOLE, on the top right corner and then Profile and get your API key. Save your API key in a .env file like that:
+
+```
+  REACT_APP_API_KEY=YOURAPIKEYWITHOUTSPACESORSEMICOLON
+```
+
+And now run your application using `yarn start`.
+
+_**PS: the number of recipes shown is limited to 9 on the URL, you can always change it on the requests by changing the variable**_ `numberOfRandomRecipes` _**on**_ `Veggie.js` _**and**_ `Popular.js` _**or by simply inserting it on the URL.**_
+
+With that, you should be able to search any recipe or filter it by Italian, American, Thai and Japanese food. You can always search for the [documentation of the API](https://spoonacular.com/food-api/docs "Spoonacular's API documentation") if you want to improve this website.
+
+Hope this documentation is useful to you.
+
+## Demo
+[Recipes](https://sprightly-cocada-b93fa2.netlify.app)
+
+ <a href="https://github.com/memof90/Recipes-React"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
  
 
 
