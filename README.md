@@ -20,7 +20,7 @@ I'm work with differents programming languages but my experiencia as ios develop
 <a href="https://github.com/memof90/Instagram-clone-swift"> swiftUI <img src="https://img.icons8.com/fluency/96/000000/swiftui.png" width="32"/></a>
 &nbsp;
 
-## My Other abilities in free time 👨🏼‍💻
+## My Other abilities in freelances time 👨🏼‍💻
 
 <a href="https://bitbucket.org/memof80/confusion-react-app/src/master/"> React <img src="https://img.icons8.com/plasticine/96/000000/react.png" width="32"/></a>
 &nbsp;
