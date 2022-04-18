@@ -564,7 +564,7 @@ Free NextJs Template for taxi driver made with **NextJs**   and **Tailwindcss**.
  
   >  React Recipes 
 
-![Recipe App Image](./Recipe-app.png 'Recipe App image')
+![Recipe App Image](https://github.com/memof90/Recipes-React/blob/master/Recipe-app.png?raw=true 'Recipe App image')
 
 _if you just want to run it locally without specifications, you can go to the [How to run it locally section](#how-to-run-it-locally)_
 
