@@ -65,6 +65,44 @@ Your phone will be the best ally when interacting with your customers, since you
 
 <a href="https://apps.apple.com/co/app/datacrm/id1437186766#?platform=ipad"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
+## <img class="logo" src="https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.29.01%20p.%C2%A0m..png?raw=true" width="32"> BI 
+
+We are the online banking that makes your life easier, putting at your disposal all banking operations such as requesting products, consulting balances, payments, transfers, and everything you need, in one place, free of charge.
+
+### Biometric income
+- [x] Facial recognition
+- [x] Fingerprint
+- [x] Face ID
+
+### Consultations
+- [x] Board of favorite beads
+- [x] Option to consult all your accounts
+
+### Transfers
+- [x] To own accounts of Banco Industrial, third parties and other banks
+- [x] Transfer money to any cell phone in Guatemala through Mobile Transfers.
+
+### Payments
+- [x] Basic services and more than 2,300 suppliers.
+- [x] Credit cards and loans.
+
+### Notifications
+- [x] Alerts of Bi Mobile
+- [x] Token
+
+### Bi Services
+- [x] Blocking of accounts and cheques
+- [x] Exchange rate
+- [x] Location of agencies and tellers
+- [x] Contact via WhatsApp
+
+> VIPER, TDD, CI/CD, Fastalane, Feature Flags, Over downloads, Widget, Action Extension, Dark mode support, Voiceover & Dynamic Text support, Localised to 37 languages, Taptic feedback, Custom App Icons, URL Scheme deeplinking, Using SF Symbols
+
+🤩 Featured by  Apple 
+
+<img src="https://github.com/memof90/screenProjects/blob/master/Bi/Captura%20de%20Pantalla%202022-05-05%20a%20la(s)%201.55.08%20p.%C2%A0m..png?raw=true"/>
+
+<a href="https://apps.apple.com/us/app/bi-en-l%C3%ADnea/id510761055"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
 ## <img class="logo" src="https://github.com/memof90/MovieApp-Swift-Offline-Online-restApi/blob/master/tmdMovie/Assets.xcassets/AppIcon.appiconset/120.png?raw=true" width="32"> Movie App
 
