@@ -65,7 +65,7 @@ Your phone will be the best ally when interacting with your customers, since you
 
 <a href="https://apps.apple.com/co/app/datacrm/id1437186766#?platform=ipad"><img src="https://www.atrinh.com/list/images/download.svg"></a>
 
-## <img class="logo" src="https://github.com/memof90/screenProjects/blob/master/MyWork/Captura%20de%20Pantalla%202021-10-15%20a%20la(s)%202.29.01%20p.%C2%A0m..png?raw=true" width="32"> BI 
+## <img class="logo" src="https://github.com/memof90/screenProjects/blob/master/Bi/Captura%20de%20Pantalla%202022-05-05%20a%20la(s)%202.04.28%20p.%C2%A0m..png?raw=true" width="32"> BI 
 
 We are the online banking that makes your life easier, putting at your disposal all banking operations such as requesting products, consulting balances, payments, transfers, and everything you need, in one place, free of charge.
 
