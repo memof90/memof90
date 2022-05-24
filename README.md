@@ -475,6 +475,8 @@ https://lascteosbelen.000webhostapp.com/ingreso
  
   <a href="https://github.com/memof90/plataformaInventario"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
   
+   # Projects REACT👨🏼‍💻🤓
+  
   >  React Stawars 
 
 ## How the app works
@@ -663,7 +665,25 @@ Hope this documentation is useful to you.
 
  <a href="https://github.com/memof90/Recipes-React"><img src="https://www.atrinh.com/covid/images/github.svg"></a>
  
+ # Projects UI 👨🏼‍💻🤓
+ 
+   >  Product Card BEM-Scss-Grid-Flexbox
 
+## Libraries
+
+* Sass
+* BEM
+* Scss
+* Grid
+* FlexBox
+
+## Product Card  Scss-BEM-Grid-Flexbox
+
+<img src="https://raw.githubusercontent.com/memof90/screenProjects/master/UX/effecto.gif"/>
+
+  <a href="https://github.com/memof90/React-Native-CheckBox"><img src="https://github.com/memof90/ProductCard-BEM-Sass"></a>
+
+ 
 
 
 
